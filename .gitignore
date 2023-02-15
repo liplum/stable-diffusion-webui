@@ -1,5 +1,6 @@
 __pycache__
 *.ckpt
+*.safetensors
 *.pth
 /ESRGAN/*
 /SwinIR/*
@@ -29,3 +30,8 @@ notification.mp3
 /textual_inversion
 /python
 *.bat
+.vscode
+/extensions
+/test/stdout.txt
+/test/stderr.txt
+/cache.json
